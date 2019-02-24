@@ -1,0 +1,4 @@
+#Sat Feb 23 11:55:11 WIB 2019
+base.0=/home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

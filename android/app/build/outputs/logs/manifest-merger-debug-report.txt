@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/67d2068266e6d2ce8cfe3d3cc55c3074/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd64d0c1de05b1f6d0c19ba54408bc3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d8655d4ee9eb77feb91f8831a4d4ed60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/123f11f40daa577682b35bd4f227e2c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ca69f8b322ce5e938052216100bc578/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1ea75257c4c1d523601c0ca62b9cc050/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4d7362293fadc112e0cffe2b44bca7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7456d1c654f5de6cc1615b6ab0db9dc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d61211dfff40da5c1ef0b0f594d48832/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4a4a6cf02d5cdd2ea82b0e675cdc8129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/922764abdd5e3ca9f2704190015ac312/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9956c6766391fd90ab7f84ab2a6c22fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/af2f21a1b0bf336885e681aa3f39a470/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77cf190b59c0b0d7d1d41e7ea4f59c89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/17c5d240c4dec4faf57a6bf72e7f7ae9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f4f074caf96c3d56c650fbcb7e6b537b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/eda2c9ec8f2550cd4e3a3263e59f7496/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79d78fc7bfda27b4cd31fcad6d25f523/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8b96aaf402a38277d153bce409185d00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/20536c37a372013a37603a86c3c060c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7fd4d9985b76575f09ceed741918b584/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a7f77ec41fcdc3f021751f863433940/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/940601f02653ae63a68d514a9e4e930f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/15319d53bf899679b4b115c420057fbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/021d1632e5b541837a90b0e6e92a8531/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/91b99117209c04992da4115e42d84be4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/11d6658b13affa6c8ef21c443f89e13f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f196e87f271a1709a3dc3c29963f8620/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0e2113bbe6f851a6e084e7c33c7d18f7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/92428539a84b2b6d1b5ceffb8712a2cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fdc2878f648a3130b78da1f7b5eef9a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6b81598ee10f1161f8e6fa7a081923e7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f3854914ff3b8e9564f5ca7c2becdf39/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/da02a75ba8b366c04afb0815a8c9cdbd/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:70-93
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:3:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:4:3-75
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:4:20-73
+application
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:3-14:17
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/17c5d240c4dec4faf57a6bf72e7f7ae9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/17c5d240c4dec4faf57a6bf72e7f7ae9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f4f074caf96c3d56c650fbcb7e6b537b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f4f074caf96c3d56c650fbcb7e6b537b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6b81598ee10f1161f8e6fa7a081923e7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6b81598ee10f1161f8e6fa7a081923e7/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f3854914ff3b8e9564f5ca7c2becdf39/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f3854914ff3b8e9564f5ca7c2becdf39/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/17c5d240c4dec4faf57a6bf72e7f7ae9/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:48-80
+	android:roundIcon
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:116-161
+	android:icon
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:81-115
+	android:allowBackup
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:162-189
+	android:theme
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:190-221
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:6:16-47
+activity#com.oss_resto.MainActivity
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:7:5-12:16
+	android:label
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:7:44-76
+	android:windowSoftInputMode
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:7:148-190
+	android:configChanges
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:7:77-147
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:7:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:8:7-11:23
+action#android.intent.action.MAIN
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:9:9-61
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:9:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:10:9-69
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:10:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:13:5-82
+	android:name
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:13:15-79
+uses-sdk
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/593a006755413cf8c7eb9eaacf2dc52b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/67d2068266e6d2ce8cfe3d3cc55c3074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/67d2068266e6d2ce8cfe3d3cc55c3074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd64d0c1de05b1f6d0c19ba54408bc3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dd64d0c1de05b1f6d0c19ba54408bc3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d8655d4ee9eb77feb91f8831a4d4ed60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d8655d4ee9eb77feb91f8831a4d4ed60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/123f11f40daa577682b35bd4f227e2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/123f11f40daa577682b35bd4f227e2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ca69f8b322ce5e938052216100bc578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ca69f8b322ce5e938052216100bc578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1ea75257c4c1d523601c0ca62b9cc050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1ea75257c4c1d523601c0ca62b9cc050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4d7362293fadc112e0cffe2b44bca7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4d7362293fadc112e0cffe2b44bca7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7456d1c654f5de6cc1615b6ab0db9dc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7456d1c654f5de6cc1615b6ab0db9dc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d61211dfff40da5c1ef0b0f594d48832/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d61211dfff40da5c1ef0b0f594d48832/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4a4a6cf02d5cdd2ea82b0e675cdc8129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4a4a6cf02d5cdd2ea82b0e675cdc8129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/922764abdd5e3ca9f2704190015ac312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/922764abdd5e3ca9f2704190015ac312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9956c6766391fd90ab7f84ab2a6c22fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9956c6766391fd90ab7f84ab2a6c22fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/af2f21a1b0bf336885e681aa3f39a470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/af2f21a1b0bf336885e681aa3f39a470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77cf190b59c0b0d7d1d41e7ea4f59c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77cf190b59c0b0d7d1d41e7ea4f59c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/17c5d240c4dec4faf57a6bf72e7f7ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/17c5d240c4dec4faf57a6bf72e7f7ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f4f074caf96c3d56c650fbcb7e6b537b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f4f074caf96c3d56c650fbcb7e6b537b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/eda2c9ec8f2550cd4e3a3263e59f7496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/eda2c9ec8f2550cd4e3a3263e59f7496/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79d78fc7bfda27b4cd31fcad6d25f523/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79d78fc7bfda27b4cd31fcad6d25f523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8b96aaf402a38277d153bce409185d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8b96aaf402a38277d153bce409185d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/20536c37a372013a37603a86c3c060c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/20536c37a372013a37603a86c3c060c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7fd4d9985b76575f09ceed741918b584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7fd4d9985b76575f09ceed741918b584/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a7f77ec41fcdc3f021751f863433940/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a7f77ec41fcdc3f021751f863433940/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/940601f02653ae63a68d514a9e4e930f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/940601f02653ae63a68d514a9e4e930f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/15319d53bf899679b4b115c420057fbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/15319d53bf899679b4b115c420057fbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/021d1632e5b541837a90b0e6e92a8531/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/021d1632e5b541837a90b0e6e92a8531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/91b99117209c04992da4115e42d84be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/91b99117209c04992da4115e42d84be4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/11d6658b13affa6c8ef21c443f89e13f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/11d6658b13affa6c8ef21c443f89e13f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f196e87f271a1709a3dc3c29963f8620/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f196e87f271a1709a3dc3c29963f8620/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0e2113bbe6f851a6e084e7c33c7d18f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0e2113bbe6f851a6e084e7c33c7d18f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/92428539a84b2b6d1b5ceffb8712a2cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/92428539a84b2b6d1b5ceffb8712a2cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fdc2878f648a3130b78da1f7b5eef9a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fdc2878f648a3130b78da1f7b5eef9a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6b81598ee10f1161f8e6fa7a081923e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6b81598ee10f1161f8e6fa7a081923e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/da02a75ba8b366c04afb0815a8c9cdbd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/da02a75ba8b366c04afb0815a8c9cdbd/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/chris/dev/ReactNativePlaySource/Project/OSS_RESTO/android/app/src/main/AndroidManifest.xml:1:1-16:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
